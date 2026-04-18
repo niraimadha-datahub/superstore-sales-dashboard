@@ -1,6 +1,6 @@
- Superstore Sales Analysis Dashboard (Power BI)
+ **Superstore Sales Analysis Dashboard (Power BI)**
 
- Project Overview
+ **Project Overview**
 
  * This project analyzes retail sales data using Microsoft Power BI to
    uncover key business insights.
@@ -9,14 +9,14 @@
    and regional trends, enabling data-driven decision-making..
 
 
- Tools Used
+**Tools Used**
 
 Microsoft Power BI
 Power Query (Data Cleaning & Transformation)
 DAX (Data Analysis Expressions)
 
 
-📁 Dataset
+📁 **Dataset**
 
  Superstore dataset including:
 
@@ -26,22 +26,16 @@ DAX (Data Analysis Expressions)
   * Order Date and Ship Date
 
 
- 📊 Key Insights
+ 📊 **Key Insights**
 
 The West region recorded the highest sales performance
 The Technology category generated the highest profit
 Higher discounts negatively impact profit margins
 A small group of top customers contributes significantly to revenue
-   Sales show a seasonal trend with peak performance in Q4)
+Sales show a seasonal trend with peak performance in Q4)
 
 
- 🖼 Dashboard Preview
-
-![Dashboard](visuals/dashboard.png)
-
-
-
-🚀 Features
+🚀 **Features**
 
 * Interactive filters (Region, Segment, Category)
 * Sales and Profit analysis by Region and Category
@@ -51,7 +45,7 @@ A small group of top customers contributes significantly to revenue
 
 
 
-📈 Business Value
+📈 **Business Value**
 
 Identifies high-performing regions and product categories
 Provides insights into customer purchasing patterns
@@ -59,7 +53,7 @@ Supports strategic decisions to improve profitability
 Helps track sales trends and seasonal demand
 
 
-📂 Project Structure
+📂 **Project Structure**
 
 superstore-powerbi-analysis/
 │── dataset/
@@ -69,7 +63,7 @@ superstore-powerbi-analysis/
 
 
 
-📌 Conclusion
+📌 **Conclusion**
 
 This Power BI dashboard delivers a comprehensive analysis of sales and profitability,
 helping stakeholders make informed, data-driven business decisions.
